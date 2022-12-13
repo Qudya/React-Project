@@ -6,7 +6,7 @@ function App() {
         <header className="header App">
             <div className="container">
                 <div className="header__inner">
-                    <a href="#" className="header__logo">
+                    <a href="/" className="header__logo">
                         ANThings
                     </a>
                     <Nav />
